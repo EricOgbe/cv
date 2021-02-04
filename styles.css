@@ -128,3 +128,12 @@ padding-top: 50px;
    border-radius: 20px;
    text-decoration: none;
 }
+.work {
+  background-color: #bbf1fa;
+}
+.links {
+  font-size: 3rem;
+}
+.mywork {
+  font-size: 2rem;
+}
